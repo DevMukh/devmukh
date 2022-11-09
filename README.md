@@ -46,10 +46,6 @@
 <br>
 <br>
     
-<summary>📝 Language I Used</summary>
-<br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkundi&theme=highcontrast&show_icons=true)](https://github.com/technicalkundi/github-readme-stats)
 
 <hr>
 Open Source Contributor from <b>Pakistan<b> 💚
