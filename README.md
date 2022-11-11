@@ -26,7 +26,8 @@
 </div>
  <!-- Social End -->
 <hr>
-<img align="right" alt="GIF" src="ameer.gif" width="499" height="280" />
+<!-- Gif Picture -->
+<img align="right" alt="GIF" src="ameer.gif" width="450" height="450" />
 
 
 
