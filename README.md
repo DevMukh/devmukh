@@ -27,7 +27,7 @@
  <!-- Social End -->
 <hr>
 <!-- Gif Picture -->
-<img align="right" alt="GIF" src="ameer.gif" width="450" height="450" />
+<img align="right" alt="GIF" src="ameer.gif" width="450" height="250" />
 
 
 
