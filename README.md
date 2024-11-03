@@ -1,3 +1,5 @@
+
+![logo](https://github.com/DevMukh/devmukh/blob/main/f61ebee8-4768-4376-8da8-6b49af263a49.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ameer Mukhtar</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
