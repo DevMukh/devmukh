@@ -20,7 +20,7 @@
 - Flutter, Dart
 
 ### Databases
-- SQL, MongoDB
+- SQL, MongoDB, Firebase
 
 ## 💼 Notable Projects
 
